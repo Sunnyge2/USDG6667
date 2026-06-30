@@ -4,8 +4,8 @@ import os
 from telegram import Bot
 
 # ================== 在这里填你的配置 ==================
-TOKEN = os.getenv('8841415360:AAFFAyhiRoZ2Q4y8UqE0lxMC8J6sQ_eAu48')          # ← BotFather 给你的 TOKEN
-CHAT_ID = os.getenv('1804284015')      # ← 你刚刚拿到的 Chat ID
+TOKEN = "8841415360:AAFFAyhiRoZ2Q4y8UqE0lxMC8J6sQ_eAu48"   # ← 填你的真实完整 Token
+CHAT_ID = 1804284015                                       # ← 你的 Chat ID
 
 USDG_MINT = "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH"
 USDC_MINT = "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
