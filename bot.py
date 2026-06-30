@@ -1,3 +1,4 @@
+bot.send_message(chat_id=CHAT_ID, text="🔔 这是一条测试消息，脚本启动正常！")
 import requests
 import time
 import os
